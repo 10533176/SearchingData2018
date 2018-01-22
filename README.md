@@ -8,9 +8,10 @@ Femke van Son
 
 
 Femke van Son 
-105331176 
+
 
 Assignment for the master Data Science at the [Univeristy of Amsterdam](http://gss.uva.nl/content/masters/information-studies-data-science/data-science.html)
+
 
 JAN 22 2018
 
