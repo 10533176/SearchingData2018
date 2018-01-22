@@ -16,7 +16,7 @@ Assignment for the master Data Science at the [Univeristy of Amsterdam](http://g
 JAN 22 2018
 
 
-# PROJECT REQUIERMENTS
+# PROJECT REQUIREMENTS
 ## INSTALL ##
 
 - indri
