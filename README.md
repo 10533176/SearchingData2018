@@ -27,11 +27,8 @@ JAN 22 2018
 
 ## FILES ##
 
-- FINAL.ipynb
-Run this notebook to get the assignment answers
+- FINAL.ipynb // Run this notebook to get the assignment answers
 
-- best_par_lang_mod.ipynm
-Run this file for paramater tuning 
+- best_par_lang_mod.ipynm // Run this file for paramater tuning 
 
-- trec_eval.ipynb
-run this file the generate the trec_eval data and the plots 
+- trec_eval.ipynb // run this file the generate the trec_eval data and the plots 
