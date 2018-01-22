@@ -33,3 +33,7 @@ JAN 22 2018
 - best_par_lang_mod.ipynm // Run this file for paramater tuning 
 
 - trec_eval.ipynb // run this file the generate the trec_eval data and the plots 
+
+- trec_results // folder that contains all the trec results in text files 
+
+- run_retrieval // folder that contains all the run files for the models 
